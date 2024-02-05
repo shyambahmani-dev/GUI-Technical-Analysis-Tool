@@ -1,5 +1,5 @@
 
-# GUI-Technical-analysis-tool
+# GUI-Technical-Analysis-Tool
 
 This tool can be used to do technical analysis on various securities across the globe using data from Yahoo! Finance.
 
